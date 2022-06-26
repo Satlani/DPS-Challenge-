@@ -1,8 +1,8 @@
 # DPS-2022
 
-## AI Mission For the DPS Program
+## AI Challenge For the DPS Program
 
-The code, plots, JSON endpoints and heroku webapp linked to this repository provides a method to visualise and predict historically the number of accidents per category and to forecast the values for the future. The method is applied to a data set which contains the monthly values for traffic accidents in Munich until the end of 2020. Forecasting from the Heroku Web Application can be done for each 3 distinct Accident Category i.e. Alcohol, Traffic and Escape.
+The code, plots, JSON endpoints and heroku webapp linked to this repository provides a method to visualise and predict historically the number of accidents per category and to forecast the values for the future. The method is applied to a data set which contains the monthly values for traffic accidents in Munich until the end of 2021. Forecasting from the Heroku Web Application can be done for each 3 distinct Accident Category i.e. Alcohol, Traffic and Escape.
 
 The Link Of The Heroku Web Application is -> https://accidentdps.herokuapp.com/
 
